@@ -3,7 +3,7 @@
     <section class="self-center flex flex-col flex-1 items-center justify-center">
       <h1 class="title text-center">En cours de dev</h1>
       <h2 class="subtitle text-center">Stay tuned</h2>
-      <img src="https://lh3.googleusercontent.com/pw/AM-JKLXg9wHHU9QYROa6nIvsd41OqrQ3IlEM3iby9MoSDUOfsPTcR7dj5igjNo88aEzpSACzVjcwvYtu2IcEgyg0aGZA9RBcAKIKl_-G14zQJgpAPfHSF7AOu2Yfwx-qT88uWUNAJGh8VQhsIvKGdxx_6tnJKw=w960-h1279-no?authuser=0">
+      <img src="../assets/images/paon.jpg">
     </section>
 
     <section class="mt-8">
