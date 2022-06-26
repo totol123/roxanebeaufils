@@ -13,6 +13,7 @@ export default {
     let posts;
     try {
       posts = await $content("blog").fetch();
+      console.log('post', post)
     } catch (e) {
       error({ message: "Blog posts not found" });
     }

@@ -12,7 +12,9 @@ export default {
   async asyncData({ $content, error }) {
     let posts;
     try {
+      
       posts = await $content("projects").fetch();
+      console.log('posts', posts)
     } catch (e) {
       error({ message: "Projects not found" });
     }
